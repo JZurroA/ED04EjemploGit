@@ -1,7 +1,8 @@
+// Comentario
 package ed.ud04ejemplogit;
 
 /**
- * Descripcion de la clase
+ * 
  * @author Jabier Zurro Aduriz
  */
 public class EjemploGit {
